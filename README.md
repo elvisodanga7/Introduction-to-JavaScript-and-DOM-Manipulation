@@ -45,4 +45,4 @@ This project demonstrates basic **HTML, CSS, and JavaScript** concepts as part o
 ---
 
 ## 👨‍💻 Author
-Created by **[Your Name]** as part of the JavaScript assignment.
+Created by Elvis Odanga Msasia as part of the JavaScript assignment.
